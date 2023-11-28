@@ -11,8 +11,8 @@ Since Input (qdct) and Target (ndct) are similar, Output (pred) can also look li
 ## 📖 Results
 |                       |PSNR    |SSIM   |
 |:--------------:|:-----------:|:-----------:|
-| ndct-qdct  |    33.78    |0.8532|
-| ndct-pred  |    37.43   | 0.9225|
+| **ndct-qdct**  |    33.78    |0.8532|
+| **ndct-pred**  |    37.43   | 0.9225|
 
 ### Visualization  
 ![image](https://github.com/SkiddieAhn/HW-Denoising-Image/assets/52392658/31ddfe03-b4f9-4458-aa09-8c987d27e057)
