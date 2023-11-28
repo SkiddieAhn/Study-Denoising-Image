@@ -2,8 +2,8 @@
 Denoising Medical Image with Difference GAN
 
 ## 💡 Discription
-```Diffrence GAN``` refers to a GAN that trains adversarially with a difference map to be denoised like a Target (ndct).  
-Since Input (qdct) and Target (ndct) are similar, Output (pred) can also look like Input, but considering diff, there is an effect of making it closer to Target.
+```Diffrence GAN```refers to a GAN that trains adversarially with a difference map in order for the input(qdct) to be denoised like a target(ndct).
+Since qdct and ndct are similar, output(pred) can also look like qdct, but considering diff, there is an effect of making it closer to ndct.
 
 ### The network pipeline.  
 ![diff_gan](https://github.com/SkiddieAhn/HW-Denoising-Image/assets/52392658/8e8b8d87-fb47-4419-8a18-88eea2904a52)
