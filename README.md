@@ -1,8 +1,8 @@
 # Denoising Medical Image
 Denoising Medical Image with Difference GAN
 
-## 💡 Difference GAN
-```DiffrenceGAN``` refers to a GAN that trains adversarially with a difference map to be denoised like a Target (ndct).  
+## 💡 Discription
+```Diffrence GAN``` refers to a GAN that trains adversarially with a difference map to be denoised like a Target (ndct).  
 Since Input (qdct) and Target (ndct) are similar, Output (pred) can also look like Input, but considering diff, there is an effect of making it closer to Target.
 
 ### The network pipeline.  
