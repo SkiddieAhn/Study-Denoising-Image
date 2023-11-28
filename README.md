@@ -1,4 +1,4 @@
-# Denoising-Medical-Image
+# Denoising Medical Image
 Denoising Medical Image with Difference GAN
 
 ## 💡 Description
