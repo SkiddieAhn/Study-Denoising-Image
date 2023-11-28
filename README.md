@@ -17,6 +17,6 @@ Since Input (qdct) and Target (ndct) are similar, Output (pred) can also come ou
 ### Visualization  
 ![image](https://github.com/SkiddieAhn/HW-Denoising-Image/assets/52392658/31ddfe03-b4f9-4458-aa09-8c987d27e057)
 ### Heatmap
-![image](https://github.com/SkiddieAhn/HW-Denoising-Image/assets/52392658/36bf70b2-21d3-4056-829d-cc5d1afbfef0)
+![image](https://github.com/SkiddieAhn/HW-Denoising-Image/assets/52392658/ff3b79ab-d6b1-4f05-86ca-399f4ee5ffa9)
 
 
